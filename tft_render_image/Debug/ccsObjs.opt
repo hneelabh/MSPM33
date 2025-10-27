@@ -1,0 +1,6 @@
+"./image_render.o"
+"./ti_msp_dl_config.o"
+"./startup_mspm33c321x_ticlang.o"
+"../mspm33c321a.cmd"
+-l"C:/ti/mspm33_sdk_1_00_00_00_internal/source/ti/driverlib/lib/ticlang/m33/mspm33c321x/driverlib.a"
+-llibc.a
