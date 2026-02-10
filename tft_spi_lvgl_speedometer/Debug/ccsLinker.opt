@@ -1,0 +1,1 @@
+-m"tft_spi_lvgl.map" -i"C:/ti/mspm33_sdk_1_00_00_00_internal/source" -i"C:/Users/bsposci/workspace_ccstheia/tft_spi_lvgl" -i"C:/Users/bsposci/workspace_ccstheia/tft_spi_lvgl/Debug/syscfg" -i"C:/ti/ccs2030/ccs/tools/compiler/ti-cgt-armllvm_4.0.3.LTS/lib" --diag_wrap=off --display_error_number --warn_sections --xml_link_info="tft_spi_lvgl_linkInfo.xml" --rom_model 
